@@ -1,5 +1,6 @@
-# ReactFlux
+# GoDaddy Boot Camp UI with React.js
 
+```
 npm install
-
-gulp watch
+npm test
+```

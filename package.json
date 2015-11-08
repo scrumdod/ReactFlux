@@ -1,0 +1,47 @@
+{
+  "name": "bootCampUi",
+  "version": "1.0.0",
+  "description": "GoDaddy Engineer Onboarding Exercise Files",
+  "dependencies": {
+    "bootstrap": "^3.3.5",
+    "superagent": "^1.4.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.secureserver.net/LearningAndDevelopment/EngineerOnboard.git"
+  },
+  "devDependencies": {
+    "babel": "^5.8.23",
+    "babel-core": "^5.8.25",
+    "babel-eslint": "^4.1.4",
+    "babelify": "^6.4.0",
+    "browserify": "^11.2.0",
+    "browserify-shim": "^3.8.10",
+    "chai": "^3.4.0",
+    "eslint-config-airbnb": "^0.1.0",
+    "eslint-plugin-react": "^3.6.3",
+    "flux": "^2.1.1",
+    "gulp": "^3.9.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-eslint": "^1.0.0",
+    "gulp-load-plugins": "^1.0.0",
+    "gulp-notify": "^2.2.0",
+    "gulp-plug": "^0.2.4",
+    "gulp-plumber": "^1.0.1",
+    "gulp-shell": "^0.5.1",
+    "jest": "^0.1.40",
+    "jquery": "^2.1.4",
+    "jsdom": "^7.0.2",
+    "react": "^0.14.0",
+    "react-addons-test-utils": "^0.14.0",
+    "react-dom": "^0.14.0",
+    "reactify": "^1.1.1",
+    "rewire": "^2.3.4",
+    "vinyl-source-stream": "^1.1.0"
+  },
+  "scripts": {
+    "test": "gulp test"
+  },
+  "author": "David Starr",
+  "license": "UNLICENSED"
+}
