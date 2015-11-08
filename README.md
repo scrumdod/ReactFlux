@@ -1,4 +1,4 @@
-# GoDaddy Boot Camp UI with React.js
+# React.js
 
 ```
 npm install
